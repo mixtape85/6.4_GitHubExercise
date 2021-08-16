@@ -1,6 +1,4 @@
 +++++++++++++++++++++
 About
 +++++++++++++++++++++
-Hello, World!
-
 Here is my about document!
